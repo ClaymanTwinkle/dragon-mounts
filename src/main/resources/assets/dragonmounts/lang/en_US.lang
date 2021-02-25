@@ -1,3 +1,13 @@
+entity.DragonMount.air.name=Aether Dragon
+entity.DragonMount.end.name=Ender Dragon
+entity.DragonMount.fire.name=Fire Dragon
+entity.DragonMount.ghost.name=Ghost Dragon
+entity.DragonMount.ice.name=Ice Dragon
+entity.DragonMount.name=Ender Dragon
+entity.DragonMount.nether.name=Nether Dragon
+entity.DragonMount.water.name=Water Dragon
+entity.DragonMount.forest.name=Forest Dragon
+
 entity.DragonMounts.DragonMount.air.name=Aether Dragon
 entity.DragonMounts.DragonMount.end.name=Ender Dragon
 entity.DragonMounts.DragonMount.fire.name=Fire Dragon
@@ -33,18 +43,6 @@ gui.config.category.options.tooltip=Options
 
 gui.config.category.debug=Debug Settings
 gui.config.category.debug.tooltip=Debug Settings
-
-gui.config.options.eggs_in_chest=Eggs In Chest
-gui.config.options.eggs_in_chest.tooltip=Spawn dragon eggs in generated chests
-
-gui.config.options.orb_target_auto_lock=Target Autolock
-gui.config.options.orb_target_auto_lock.tooltip=Clicking the dragon orb locks on to the target until released
-
-gui.config.options.orb_highlight_target=Target Highlight
-gui.config.options.orb_highlight_target.tooltip=The dragon orb shows a highlight around the target
-
-gui.config.options.orb_holder_immune=Orb Holder Immune
-gui.config.options.orb_holder_immune.tooltip=Is the orb holder immune to dragon breath?
 
 gui.config.debug.dragon_entity_id=EntityID
 gui.config.debug.dragon_entity_id.tooltip=Overrides the entity ID for dragons to fix problems with manual IDs from other mods.  -1 = auto.
